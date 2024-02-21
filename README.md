@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o João
-- 👀 Sou DBA
-- 🌱 Além dos estudos em banco de dados, procuro estar atualizado também nos seguintes temas: Cloud, DevOps, etc
+- 💻 Sou DBA
+- 📓 Além dos estudos em banco de dados, procuro estar atualizado também nos seguintes temas: Cloud, DevOps, etc
 
 <div align="left">
   <a href="https://github.com/tavaresdb">
