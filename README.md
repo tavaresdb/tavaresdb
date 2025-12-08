@@ -2,11 +2,13 @@
 - 💻 Sou DBA
 - 📓 Além dos estudos em banco de dados, procuro estar atualizado também nos seguintes temas: Cloud, DevOps, etc
 
+<!--
 <div align="left">
   <a href="https://github.com/tavaresdb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavaresdb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresdb&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Joao-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
