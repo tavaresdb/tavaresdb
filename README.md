@@ -1,10 +1,10 @@
-- 👋 Olá, eu sou o João
+- 👋 Olá, aqui é o João
 - 💻 Sou DBA
 - 📓 Além dos estudos em banco de dados, procuro estar atualizado também nos seguintes temas: Cloud, DevOps, etc
 
 <div align="left">
   <a href="https://github.com/tavaresdb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavaresdb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavaresdb&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresdb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
