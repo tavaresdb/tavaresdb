@@ -24,10 +24,10 @@ Caso queira entrar em contato, acesse a minha rede:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavaresdb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 -->
-<div align="left">
-  <img height="196em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tavaresdb&theme=dark" alt="Estatísticas Gerais" />
-  <img height="196em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tavaresdb&theme=dark" alt="Repositórios por linguagem" />
-  <img height="196em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tavaresdb&theme=dark" alt="Linguagens com mais commits" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tavaresdb&theme=dark" alt="Estatísticas Gerais" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tavaresdb&theme=dark" alt="Repositórios por linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tavaresdb&theme=dark" alt="Linguagens com mais commits" />
 </div>
 
 ## 🛠️ Skills
